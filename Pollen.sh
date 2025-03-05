@@ -34,7 +34,15 @@ echo '{
   "ExtensionAllowedTypes": null,
   "ExtensionInstallAllowlist": null,
   "ExtensionInstallBlocklist": null,
-  "ExtensionInstallForcelist": null,
+  "ExtensionInstallForcelist": [
+  "haldlgldplgnggkjaafhelgiaglafanh;https://goguardian.com/ext/m.xml",
+  "inoeonmfapjbbkmdafoankkfajkcphgd;https://clients2.google.com/service/update2/crx",
+  "adkcpkpghahmbopkjchobieckeoaoeem;https://lsrelay-extensions-production.s3.amazonaws.com/chrome-filter/e8851c9659c1b31a992c55a27f0501153b21612005a9c351033c9b7471bb932f/ChromeFilter.xml",
+  "cgbbbjmgdpnifijconhamggjehlamcif;https://clients2.google.com/service/update2/crx",
+  "iomlfggdabcncjhepmeealcplegnmckn;https://clients2.google.com/service/update2/crx",
+  "mknheejpeffammgcbacfciaeealbclod;https://clients2.google.com/service/update2/crx",
+  "pddeancnafjpllgchbcphaigbpohpckm;https://goguardian.com/licenses/update.php"
+],
   "ExtensionSettings": null,
   "PasswordManagerEnabled": "true",
   "TaskManagerEndProcessEnabled": "true",
