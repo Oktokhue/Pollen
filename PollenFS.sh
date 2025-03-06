@@ -33,7 +33,6 @@ echo '{
   "ExtensionAllowedTypes": null,
   "ExtensionInstallAllowlist": null,
   "ExtensionInstallBlocklist": null,
-  "ExtensionInstallForcelist": null,
   "ExtensionSettings": null,
   "PasswordManagerEnabled": "true",
   "TaskManagerEndProcessEnabled": "true",
